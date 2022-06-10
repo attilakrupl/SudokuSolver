@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+/.vs/SudokuSolver/v16
+/Debug/qmake
+/Release/qmake
+/x64
