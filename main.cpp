@@ -5,6 +5,7 @@ int main(int argc, char* argv[])
 	try
 	{
 		SudokuSolver rs;
+		// add UI here
 		rs.initWithRows({
 				{8,6,0,0,2,0,0,0,0},
 				{0,0,0,7,0,0,0,5,9},
